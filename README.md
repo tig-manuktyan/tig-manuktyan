@@ -1,4 +1,4 @@
-# 👋 Hi, I’m [Your Name]!
+# 👋 Hi, I’m Tigran Manukyan!
 
 I’m a **Senior Backend Developer** with over **4 years of experience** in building scalable and efficient backend systems. I specialize in **NestJS**, **microservices**, **AI-powered bots**, and **cloud infrastructure**.
 
