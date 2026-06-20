@@ -57,7 +57,7 @@ I like owning a project end-to-end: architecture → implementation → deployme
 Real-time Crash multiplier game built as a Telegram Mini App with TON crypto and NFT-gift betting. Microservice architecture (frontend / game server / bot+blockchain service) communicating over TCP RPC and RabbitMQ, with a server-driven WebSocket game loop and TonAPI/Telegram Stars integration.
 `NestJS` `React` `TypeScript` `Socket.IO` `PostgreSQL` `Redis` `RabbitMQ` `TON SDK`
 
-#### 📱 [MVAS FlowHub](#) — Mobile Subscription Platform
+#### 📱 [FlowHub](#) — Mobile Subscription Platform
 Config-driven telecom platform where new partners and subscription flows (PIN, PSMS, SMS-MO, Click2SMS) are onboarded via JSON, not code. Includes a Universal Flow Executor, operator detection, SSE-based real-time updates, and granular RBAC.
 `NestJS` `PostgreSQL` `Redis` `React` `Next.js` `Docker`
 
