@@ -42,8 +42,8 @@ My main areas of expertise:
 The platform combines a modern web application, Telegram Mini App, backend services, Admin CRM, payment flows, eSIM provider integrations and real-time customer support.
 
 <p align="center">
-  <img src="./assets/cozzysim-mobile.png" width="38%" />
-  <img src="./assets/cozzysim-web.png" width="56%" />
+  <img src="./assets/cozzysim-web.png" width="70%" />
+  <img src="./assets/cozzysim-mobile.png" width="20%" />
 </p>
 
 ### 🚀 What I Built
