@@ -153,24 +153,6 @@ This allows support agents to communicate with customers across multiple channel
 
 # 🌟 Featured Projects
 
-## 🎮 Crash Game — Real-Time Telegram Mini App
-
-Real-time Crash multiplier game built as a Telegram Mini App with TON crypto and NFT-gift betting.
-
-The system uses a microservice architecture consisting of the frontend, game server and bot/blockchain services.
-
-Services communicate through **TCP RPC and RabbitMQ**, while the game itself uses a server-driven WebSocket loop.
-
-### Key technologies
-
-`NestJS` `React` `TypeScript` `Socket.IO`
-
-`PostgreSQL` `Redis` `RabbitMQ` `TON SDK`
-
-`Telegram Mini Apps` `TonAPI` `Telegram Stars`
-
----
-
 ## 🛒 Homeberries — Multi-Tenant E-Commerce Platform
 
 Multi-tenant SaaS marketplace with isolated storefronts for individual companies.
