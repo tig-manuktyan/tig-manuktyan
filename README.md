@@ -43,7 +43,7 @@ The platform combines a modern web application, Telegram Mini App, backend servi
 
 <p align="center">
   <img src="./assets/cozzysim-web.png" width="70%" />
-  <img src="./assets/cozzysim-mobile.png" width="20%" />
+  <img src="./assets/cozzysim-mobile.png" width="30%" />
 </p>
 
 ### 🚀 What I Built
